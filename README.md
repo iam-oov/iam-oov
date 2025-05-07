@@ -61,4 +61,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-oov&layout=compact&theme=dark)
 
-[![osvaldo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valdoapp)](https://github.com/iam-oov/github-readme-stats)
+[![osvaldo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e065112b-e947-491f-9bb4-8e089375a35a)](https://github.com/iam-oov/github-readme-stats)
