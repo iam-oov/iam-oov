@@ -60,3 +60,5 @@
 ![osvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-oov&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-oov&layout=compact&theme=dark)
+
+[![osvaldo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valdoapp)](https://github.com/iam-oov/github-readme-stats)
