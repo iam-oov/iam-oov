@@ -8,7 +8,7 @@
 </div>
 
 
-#### 🚨 Actualmente, me encuentro en búsqueda activa de un nuevo reto profesional que me permita aplicar mis habilidades y experiencia para generar un impacto real y crecer junto con el equipo y la organización. [Ver CV.](https://drive.google.com/drive/folders/1ehCXpHP2PTJ4f8JyBWxnvYLq5CXeSYv7)
+#### 🚨 [Ver CV](https://drive.google.com/file/d/1zOZrPSfKazy3akZvWxavgIgTYpQ92PiZ/view?usp=sharing)
 
 <div style="display: flex; align-items: center; justify-content: space-evenly; gap: 10px; margin-top: 20px">
 
