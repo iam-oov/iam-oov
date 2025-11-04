@@ -8,7 +8,7 @@
 </div>
 
 
-#### 🚨 [Ver CV](https://drive.google.com/file/d/1zOZrPSfKazy3akZvWxavgIgTYpQ92PiZ/view?usp=sharing)
+#### 👉 [Ver CV](https://drive.google.com/file/d/1zOZrPSfKazy3akZvWxavgIgTYpQ92PiZ/view?usp=sharing)
 
 <div style="display: flex; align-items: center; justify-content: space-evenly; gap: 10px; margin-top: 20px">
 
