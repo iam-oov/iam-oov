@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXliM2dna252a2F4cThldjBtcmw5Nmd3enFtNGpzcG8xMTdkNThmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SKwQMGTR1umLrKC7N/giphy.gif" style="width: 30%;" />
   <div style="width: 70%;">
-    Soy desarrollador Full Stack con especial enfoque en backend. Me apasionan la inteligencia artificial, el trading de criptomonedas y compartir conocimiento. Disfruto programar y escribir código pensado para humanos.
+    Soy desarrollador Full Stack con fuerte enfoque en backend, especializado en construir sistemas escalables, claros y bien pensados. Trabajo principalmente con Python, TypeScript y JavaScript, y me gusta diseñar soluciones que no solo funcionen, sino que sean mantenibles, seguras y fáciles de entender para otros desarrolladores.
   </div>
 </div>
 
